@@ -78,7 +78,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush-raj05&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
