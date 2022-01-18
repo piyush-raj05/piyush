@@ -1,6 +1,6 @@
 ### PIYUSH RAJ SHRIVASTAVA
 #### B.Tech final year | MBA Aspirant
-![B.Tech final year | MBA Aspirant](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![B.Tech final year | MBA Aspirant]
 
 Quality-driven engineer, aiming to study management sciences and pursue real-world experiences as a manager, offering assertive interpersonal and task prioritization skills.
 
