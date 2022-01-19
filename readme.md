@@ -5,7 +5,7 @@ I'm Piyush Raj Shrivastava a software engineer and a MBA aspirant.
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently studing at SRM Institute of Science and Technology
-- :computer: Most used line of code `git commit -m "#include<iostream.h>"`
+- :computer: Most used line of code `"#include<iostream.h>"`
 - 🤔 I’m looking for outstanding business exposure.
 - 📫 How to reach me: piyushrajmne@gmail.com
 - ⚡ Fun fact: I play games and go to the GYM very often.
