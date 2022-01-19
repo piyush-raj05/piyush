@@ -2,13 +2,11 @@
 
 I'm Piyush Raj Shrivastava a software engineer and a MBA aspirant. 
 
-[![Twitter Badge](https://img.shields.io/badge/-piyush-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-Piyush-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Piyush-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-piyush-raj05-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:piyusrajmne@gmail.com)]
-
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently studing at SRM Institute of Science and Technology
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for outstanding business exposure
+- :computer: Most used line of code `git commit -m "#include<iostream.h>"`
+- 🤔 I’m looking for outstanding business exposure.
 - 📫 How to reach me: piyushrajmne@gmail.com
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
